@@ -2,8 +2,8 @@
 //  ViewController.h
 //  JFSegmentView
 //
-//  Created by linjianfang on 2017/9/14.
-//  Copyright © 2017年 linjianfang. All rights reserved.
+//http://www.jianshu.com/p/24e15b39c603
+//  https://github.com/tubie/JFSegmentView
 //
 
 #import <UIKit/UIKit.h>
